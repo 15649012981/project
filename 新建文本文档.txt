@@ -1,0 +1,2 @@
+IntersectionObserver 监控设备滚动进入和离开（jsAPI）
+getBoundingClientRect 监控滑块位置相对属性（jsAPI）
